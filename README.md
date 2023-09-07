@@ -9,7 +9,7 @@ Welcome to my personal web page! This page showcases my information and real-tim
 - **Current Day:** The current day of the week (e.g., Monday, Tuesday) is displayed.
 - **Current UTC Time:** The current UTC time is shown.
 - **Track:** I'm currently focusing on the Frontend track.
-- **GitHub Repository:** You can access the source code for this project on my [GitHub repository](https://mayweather01.github.io/hng_internship/).
+- **GitHub Repository:** You can access the source code for this project on my [GitHub repository](https://github.com/Mayweather01/hng_internship).
 
 ## Author
 
